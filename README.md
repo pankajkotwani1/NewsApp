@@ -4,6 +4,8 @@ Sure, here's a README file for the NewsApp project:
 
 NewsApp is a React Native application that fetches the top 100 news headlines, stores them for offline access, displays them in a dynamic list view, and allows user interaction.
 
+https://github.com/pankajkotwani1/NewsApp/blob/main/App.gif
+
 ## Features
 
 - Fetch the top 100 news headlines from a news API
